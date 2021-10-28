@@ -1,0 +1,52 @@
+/*Yago Vaz Bezerra de Menezes
+01/20/2018*/
+
+
+input{
+	color: #707070;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: 700;
+	border: none;
+	border-radius: 0 0 10px 10px;
+	background-color: #8e0000;
+	display: block;
+	padding: 5px 0;
+	text-align: center;
+	width: 30%;
+	outline: none;
+	float: none;
+	margin: 0 auto;
+	-moz-appearence: textfield;
+}
+
+input[type=number]::-webkit-inner-spin-button { 
+    -webkit-appearance: none;
+}    
+
+
+.sel{
+	background-color: #212121;
+}
+
+
+.win{
+	font-size: 2em;
+	color: gold;
+}
+
+
+#canvascontainer{
+	max-width: 1230;
+}
+
+#canvas{
+	background-color: #2e2e2e;
+	border-radius: 10px;
+	float: none;
+	display: block;
+	margin: 20px auto;
+}
+
+#stripe{
+	background-color: #8e0000;
+}

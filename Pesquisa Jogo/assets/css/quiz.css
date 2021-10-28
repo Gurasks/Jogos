@@ -1,0 +1,99 @@
+.menu {
+	color: #212121;
+	background-color: transparent;
+	border: none;
+	padding: 0 5.5%;
+	height: 26.76px;
+	font-family: 'Oxygen', sans-serif;
+	font-size: 1.1em;
+	font-weight: 700;
+	text-transform: capitalize;
+	line-height: 26.76px;
+}
+
+.menu:hover{
+	color: white;
+	background-color: #212121;
+}
+
+.menu:focus{
+	outline: none;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+
+.container{
+	margin: 0 auto;
+	max-width: 40%;
+}
+
+.questionNum{
+	color: #707070;
+	display: inline-block;
+	width: 10%;
+	line-height: 26.76px;
+	font-weight: 700;
+	text-align: center;
+}
+
+.active {
+	color: #212121;
+	background-color: #f9a825;
+}
+
+.containerAnswers {
+	width: 80%;
+	margin: 20px auto;
+}
+
+.questionAnswer {
+	color: white;
+	text-align: justify;
+	background-color: #212121;
+	float: left;
+	width: 48%;
+	height: 250px;
+	margin: 1%;
+	transition: background 1s;
+}
+
+.answer {
+	margin: 15px;
+}
+
+.correct{
+	color: white;
+	background-color: #388e3c;
+}
+
+.wrong{
+	color: white;
+	background-color: #c62828;
+}
+
+.big{
+	font-size: 2em;
+	color: #f9a825;
+}
+
+
+#stripe {
+	background-color: #f9a825;
+}
+
+#stripeQuestions {
+	height: 26.76px;
+	width: 100%;
+	background-color: #212121;
+}
+
+#question {
+	text-transform: none;
+}
+

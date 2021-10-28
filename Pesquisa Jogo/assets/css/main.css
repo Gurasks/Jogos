@@ -1,0 +1,49 @@
+body{
+	background-color: #5e5e5e;
+	margin: 0;
+	font-family: 'Oxygen', sans-serif;
+}
+
+
+
+h1{
+	color: #707070;
+	font-size: 2em;
+	text-align: center;
+	text-transform: capitalize;
+	background-color: #212121;
+	padding: 3%;
+	margin: 0;
+}
+
+
+.title{
+	color: #707070;
+	font-size: 2em;
+	text-align: center;
+	text-transform: capitalize;
+	background-color: #212121;
+	padding: 3%;
+	margin: 0;
+}
+
+.container{
+	margin: 20px auto;
+	max-width: 40%;
+}
+
+
+#title{
+	font-size: 1.5em;
+}
+
+
+#head {
+    width: 100%;
+}
+
+#stripe {
+	height: 26.76px;
+	width: 100%;
+	background-color: white;
+}
