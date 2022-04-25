@@ -1,7 +1,0 @@
-Jogo de lógica
-
-1- torre de hanoi  (done)
-2- perguntas de logica (done)
-3- labirinto com puzzles 
-4- sudoku com simbolos 5x5
-?- color game

@@ -1,4 +1,4 @@
-body{
+body {
 	background-color: #5e5e5e;
 	margin: 0;
 	font-family: 'Oxygen', sans-serif;
@@ -6,7 +6,7 @@ body{
 
 
 
-h1{
+h1 {
 	color: #707070;
 	font-size: 2em;
 	text-align: center;
@@ -17,7 +17,7 @@ h1{
 }
 
 
-.title{
+.title {
 	color: #707070;
 	font-size: 2em;
 	text-align: center;
@@ -27,11 +27,10 @@ h1{
 	margin: 0;
 }
 
-.container{
+.container {
 	margin: 20px auto;
 	max-width: 40%;
 }
-
 
 #title{
 	font-size: 1.5em;
